@@ -1,0 +1,30 @@
+body {
+  margin-left: 5px;
+}
+
+h1 {
+  color: blue;
+}
+
+div span {
+  visibility: show;
+}
+.right p {
+  display: show;
+}
+
+#sixth img {
+  width: 300px;
+  height: 300px;
+}
+
+p {
+  color: red;
+}
+input {
+  display: block;
+}
+
+#third p {
+  background-color: bisque;
+}

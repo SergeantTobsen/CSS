@@ -1,0 +1,25 @@
+a {
+  color: black;
+  font-size: larger;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 15px;
+}
+header {
+  background-color: rgb(223, 22, 22);
+}
+body {
+  background-color: rgb(105, 107, 107);
+}
+input {
+  background-color: bisque;
+}
+textarea {
+  background-color: rgb(119, 117, 114);
+}
+.impressum {
+  color: azure;
+}
+/* Abbildung 1 hidden nimmt aber den platz trotzdem ein, daher layout ändert sich */
+figcaption {
+  visibility: hidden;
+}
